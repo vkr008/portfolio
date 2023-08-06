@@ -1,17 +1,17 @@
-const logotext = "JOHN";
+const logotext = "VIKAS";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Vikas Kumar",
+    description: "I’m Vikas Kumar data engineer _ Full stack data pipeline,currently working in Bangalore",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Vikas Kumar",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I code data pipeline",
+        third: "I create insights from data ",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Data Evangelist with 10.6 yrs exp. Skilled in cost-effective, high-quality data pipelines, real-time decision-making, and cutting-edge tools",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
