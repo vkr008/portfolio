@@ -1,7 +1,7 @@
 const logotext = "VIKAS";
 const meta = {
     title: "Vikas Kumar",
-    description: "I’m Vikas Kumar data engineer _ Full stack data pipeline,currently working in Bangalore",
+    description: "I’m Vikas Kumar data engineer, currently working in Bangalore",
 };
 
 const introdata = {
